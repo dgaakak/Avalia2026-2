@@ -5,4 +5,4 @@ pages_build_output_dir = "."
 [[d1_databases]]
 binding = "DB"
 database_name = "techblog-turma-db"
-database_id = "COLOQUE_O_ID_DO_SEU_D1_AQUI"
+database_id = "dc148b4f-aa48-4f50-942b-f7b8e1108903"
