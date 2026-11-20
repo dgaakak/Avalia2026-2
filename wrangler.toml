@@ -1,0 +1,8 @@
+name = "techblog-turma"
+compatibility_date = "2026-11-20"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "techblog-turma-db"
+database_id = "COLOQUE_O_ID_DO_SEU_D1_AQUI"
